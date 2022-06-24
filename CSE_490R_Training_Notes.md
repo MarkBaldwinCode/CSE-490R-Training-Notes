@@ -13,3 +13,6 @@ believe that I am pulling my weight and that things are going fairly well. The c
 due, but I think that coding will liven everyone up. 
 
 Week 7 - 8 Notes:
+This past two weeks I have worked on learning about NestJS and have been able to connect the backend to the frontend of the project. I will need to continue to learn how this all works to shore up my understanding of the project and these technologies. Assigned to help others understand how I was able to do this. Will do a group programming session to work this out. 
+
+Week 9 - 10 Notes:
