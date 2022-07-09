@@ -16,3 +16,6 @@ Week 7 - 8 Notes:
 This past two weeks I have worked on learning about NestJS and have been able to connect the backend to the frontend of the project. I will need to continue to learn how this all works to shore up my understanding of the project and these technologies. Assigned to help others understand how I was able to do this. Will do a group programming session to work this out. 
 
 Week 9 - 10 Notes:
+This past two weeks I have worked on the issue of not having validation all the way setup in the DTO's of the backend for the create user features. I was able to learn about how the class-validator from nestjs works and add these validators to the code base. I attended meetings and particapated in the team meetups for coding when they applied to what I had been assigned. I also completed my one-on-ones with Anne. 
+
+Week 11 - 12 Notes:
